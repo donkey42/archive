@@ -27,9 +27,23 @@ To build your own firmware you need to have access to a Linux, BSD or MacOSX sys
 (case-sensitive filesystem required). Cygwin will not be supported because of
 the lack of case sensitiveness in the file system.
 
-
 Sunshine!
 	Your OpenWrt Project
 	http://openwrt.org
 
+edit:
+to clone the reposotory with 
+"git clone https://github.com/donkey42/openert.git"
+then checkout the branch required
+"git checkout <required branch>
 
+for attitude_adjustment "git checkout attitude_adjustment"
+for barrier_breaker "git checkout barrier_breaker"
+for chaos_calmer "git checkout chaos_calmer
+
+or just do one git clone
+for attitude_adjustment "git clone -b attitude_ajustment https://github.com/donkey42/openert.git"
+for barrier_breaker "git clone -b barrier_breaker https://github.com/donkey42/openert.git"
+for chaos_calmer "git clone -b chaos_calmer https://github.com/donkey42/openert.git"
+
+donkey
