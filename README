@@ -32,7 +32,8 @@ Sunshine!
 	http://openwrt.org
 
 edit:
-to clone the reposotory with 
+
+clone the reposotory with 
 "git clone https://github.com/donkey42/openert.git"
 then checkout the branch required
 "git checkout <required branch>"
